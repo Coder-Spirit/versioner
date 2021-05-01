@@ -1,3 +1,7 @@
-/notar/target
-/versioner/target
+/node_modules/
+/packages/notar/node_modules/
+/packages/versioner/node_modules/
+
 /target
+/tools/notar/target
+/tools/versioner/target

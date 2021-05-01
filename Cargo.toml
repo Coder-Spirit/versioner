@@ -1,2 +1,2 @@
 [workspace]
-members = ["notar", "versioner"]
+members = ["tools/notar", "tools/versioner"]
